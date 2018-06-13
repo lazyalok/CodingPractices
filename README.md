@@ -9,3 +9,6 @@ https://www.martinfowler.com/bliki/TellDontAsk.html
 
 ## Why to use builders
 https://www.petrikainulainen.net/software-development/design/three-reasons-why-i-like-the-builder-pattern/
+
+## use interface not extend classes. (required use compostion)
+https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html
