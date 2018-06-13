@@ -1,4 +1,4 @@
-# CodingPractices
+# Coding Practices
 Find all useful links for best coding practices
 
 ## Getter Setters are evil  
